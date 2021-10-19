@@ -1,5 +1,7 @@
 # Overview
 
+[![Python application test with Github Actions](https://github.com/sahil8060/Building-a-CICD-Pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/sahil8060/Building-a-CICD-Pipeline/actions/workflows/pythonapp.yml)
+
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
