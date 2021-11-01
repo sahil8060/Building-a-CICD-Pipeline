@@ -24,41 +24,41 @@ Instructions for running the Python project.
 
 * Project running on Azure App Service
 
-![App_Service_UI](screenshots/My_Web_App/App_Service_UI.png)
+![App_Service_UI](Screenshots/My_Web_App/App_Service_UI.png)
 
 * Project cloned into Azure Cloud Shell
 
-![Github_Clone](screenshots/Github_CI/Github_Clone.png)
+![Github_Clone](Screenshots/Github_CI/Github_Clone.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
 
-![Make_all_test_pass](screenshots/My_Web_App/Make_all_test_pass.png)
+![Make_all_test_pass](Screenshots/My_Web_App/Make_all_test_pass.png)
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
 
-![Pipeline_Success](screenshots/Azure_Pipeline/Pipeline_Success.png)
+![Pipeline_Success](Screenshots/Azure_Pipeline/Pipeline_Success.png)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
-![Pipline_Jobs_In_Run](screenshots/Azure_Pipeline/Pipline_Jobs_In_Run.png)
+![Pipline_Jobs_In_Run](Screenshots/Azure_Pipeline/Pipline_Jobs_In_Run.png)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/sahil8060/Building-a-CICD-Pipeline/blob/main/make_predict_azure_app.sh).
 The output should look similar to this:
 
-![Make_Predict](screenshots/My_Web_App/Make_Predict.png)
+![Make_Predict](Screenshots/My_Web_App/Make_Predict.png)
 
 
 * Successful prediction from deployed flask when you run app Locally.  [Use this file as a template for the deployed prediction](https://github.com/sahil8060/Building-a-CICD-Pipeline/blob/main/make_prediction.sh).
 The output should look similar to this:
 
-![Make_Predction_App](screenshots/My_Web_App/Make_Predction_App.png)
+![Make_Predction_App](Screenshots/My_Web_App/Make_Predction_App.png)
 
 * Output of streamed log files from deployed application
 
-![Web_App_CLI_Logs](screenshots/My_Web_App_Logs/Web_App_CLI_Logs.png)
+![Web_App_CLI_Logs](Screenshots/My_Web_App_Logs/Web_App_CLI_Logs.png)
 
 ## Enhancements
 
