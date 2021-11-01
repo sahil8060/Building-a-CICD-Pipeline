@@ -12,7 +12,7 @@ This project is build to demonsrate the skills learned throught the Udacity cour
 
 ![trello-board-qr-code](trello-board-qr-code.png)
 
-* A link to a spreadsheet that includes the original and final project plan>
+* A [link](https://github.com/sahil8060/Building-a-CICD-Pipeline/blob/main/project-management-template.xlsx) to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
 
