@@ -62,7 +62,6 @@ The output should look similar to this:
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
 Intially we are working with single github repositry in the future we will create three branches. As we had learned about three major environments of project building.
 1. Testing
 2. Staging
