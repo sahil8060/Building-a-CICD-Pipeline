@@ -30,6 +30,12 @@ Instructions for running the Python project.
 
 ![Github_Clone](Screenshots/Github_CI/Github_Clone.png)
 
+
+* Succesffull run using command script
+
+![Web_App_CLI_Logs](Screenshots/My_Web_App_Logs/Run_Using_Command_Script.png)
+
+
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
 * Output of a test run
