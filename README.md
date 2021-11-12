@@ -33,7 +33,7 @@ Instructions for running the Python project.
 
 * Succesffull run using command script
 
-![Web_App_CLI_Logs](Screenshots/My_Web_App_Logs/Run_Using_Command_Script.png)
+![Web_App_CLI_Logs](Screenshots/My_Web_App/Run_Using_Command_Script.png)
 
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
