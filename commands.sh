@@ -1,1 +1,1 @@
-az webapp up -n mywebapp-service -g rg_Linux_centralus -p aspLinuxcentralus
+az webapp up -n mywebapp-service -l "Central US" --sku "B1"
