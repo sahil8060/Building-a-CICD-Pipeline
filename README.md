@@ -60,6 +60,10 @@ The output should look similar to this:
 
 ![Web_App_CLI_Logs](Screenshots/My_Web_App_Logs/Web_App_CLI_Logs.png)
 
+* Screenshot of the application running against a load test with locust
+
+![Make_Predction_App](Screenshots/Locust/Locust_Test.png)
+
 ## Enhancements
 
 Intially we are working with single github repositry in the future we will create three branches. As we had learned about three major environments of project building.
